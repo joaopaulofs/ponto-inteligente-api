@@ -1,4 +1,4 @@
-package com.meudominio.pontointegeligente.api;
+package com.meudominio.pontointeligente.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
